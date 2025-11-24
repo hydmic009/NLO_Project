@@ -1,4 +1,4 @@
-# SmartMARL: Car vs. Pedestrian Chase Game
+# MARL for the Homicidal Chauffer Differential Game
 
 A Multi-Agent Reinforcement Learning (MARL) project using **Proximal Policy Optimization (PPO)**. This simulation pits two AI agents against each other in a continuous 2D environment:
 *   **The Car:** A faster agent with limited turning radius (Ackermann-like steering).
